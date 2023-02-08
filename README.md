@@ -1,1 +1,1 @@
-# STA-101-Introduction-to-statistics
+# STAT-101-Introduction-to-statistics
