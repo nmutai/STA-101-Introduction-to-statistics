@@ -4,8 +4,7 @@ data collection, measures of central tendency, measures of dispersion, data pres
 
 All analysis will be done in R software. 
 
-Please install R here: https://www.r-project.org/
-Also R studio here: https://posit.co/products/open-source/rstudio/
+Please install R here: https://www.r-project.org/ and R studio here: https://posit.co/products/open-source/rstudio/
 
 Reference books
 
